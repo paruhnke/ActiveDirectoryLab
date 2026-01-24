@@ -22,4 +22,7 @@ The goal of this lab was to gain hands-on experience with:
 This lab consists of:
 - One Domain Controller with two network interfaces
 - One Windows 10 client joined to the domain
-- An internal private network with internet access routed through the DC
+- An internal private network with internet access routed through the Domain Controller
+
+## Documentation
+Detailed explanations of each component and configuration decision can be found in the `/docs` directory.
