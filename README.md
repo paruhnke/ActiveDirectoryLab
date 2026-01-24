@@ -25,4 +25,7 @@ This lab consists of:
 - An internal private network with internet access routed through the Domain Controller
 
 ## Documentation
-Detailed explanations of each component and configuration decision can be found in the `/docs` directory.
+- [Networking Design](docs/networking.md)
+- [Domain Controller](docs/domain-controller.md)
+- [DHCP and DNS](docs/dhcp-and-dns.md)
+- [Client Machine](docs/client-machine.md)
